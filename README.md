@@ -6,7 +6,7 @@
 <!--more-->
 ## 1. 层级结构
 
-![screenshot](media/screenshot-4.png)
+<img src=http://omup0qp0e.bkt.clouddn.com/screenshot-4.png width=800>
 
 * 一个大的 UIScrollView
 * 多个小的 UIScrollView
@@ -84,4 +84,5 @@
 }
 ```
 
+## [源码](https://github.com/zhuimiao/PhotoBrowser)
 
